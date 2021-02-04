@@ -1,0 +1,21 @@
+{
+    "name": "Nextjs - Boilerplate",
+    "dockerFile": "Dockerfile",
+    "appPort": 3000,
+    "extensions": [
+      "CoenraadS.bracket-pair-colorizer",
+      "hazer.ReactCodeSnippets",
+      "Tyriar.sort-lines",
+      "nathanchapman.javascriptsnippets",
+      "mikestead.dotenv",
+      "kamikillerto.vscode-colorize",
+      "vscode-icons-team.vscode-icons",
+      "eamodio.gitlens",
+      "usernamehw.indent-one-space",
+      "ms-vscode.vscode-typescript-tslint-plugin",
+      "shardulm94.trailing-spaces"
+   ],
+    "settings": {
+      "terminal.integrated.shell.linux": "/bin/sh"
+    }
+}
