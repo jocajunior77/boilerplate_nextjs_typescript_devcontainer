@@ -4,6 +4,7 @@ import Head from 'next/head'
 import { Container } from '../styles/pages/Home'
 
 
+
 const Home: React.FC = () => {
   return (
     <Container>
@@ -17,8 +18,8 @@ const Home: React.FC = () => {
         height={'100%'}
       />
 
-      <h1>ReactJS Structure</h1>
-      <p>A ReactJS + Next.js structure made by Iso5geducacional.</p>
+      <h1>Borleiplate</h1>
+      <p>A ReactJS + Next.js structure made by Iso5geducacional fork by https://github.com/rocketseat-content/react-nextjs-typescript-structure. </p>
     </Container>
   )
 }
